@@ -8,6 +8,8 @@ BookShelf-EPR is a **student project** for my software development course.
 Inspired by book apps (like Taaghche), but **just for learning purposes**.  
 No real code is copied.
 Check the [EPR documentation](EPR.md) for details on project steps, bugs, and releases.
+
+
 Check the **EPR.md** and **epr_calculations.py** for documentation and simple project calculations.
 
 Goal: understand **project structure, versioning, bug tracking & documentation**.
