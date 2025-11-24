@@ -7,7 +7,7 @@
 BookShelf-EPR is a **student project** for my software development course.  
 Inspired by book apps (like Taaghche), but **just for learning purposes**.  
 No real code is copied.
-
+Check the [EPR documentation](EPR.md) for details on project steps, bugs, and releases.
 Goal: understand **project structure, versioning, bug tracking & documentation**.
 
 ---
@@ -53,7 +53,7 @@ Check **EPR.md** for:
 ---
 
 ## Testing
-Small test in `tests/` using **pytest**
+Tests are in the [tests](tests/) folder. Run with pytest.
 
 ---
 
